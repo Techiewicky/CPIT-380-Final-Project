@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 5. Start the Python backend:
    ```
-   python app.py
+   python classifier.py
    ```
 
 6. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
